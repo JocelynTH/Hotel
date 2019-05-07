@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tipoV">
+        <item> </item>
+        <item>Sencillo</item>
+        <item>Redondo</item>
+    </string-array>
+
+    <string-array name="Origen">
+        <item> </item>
+
+        <item>TOLUCA, EDO. MEXICO</item>
+    </string-array>
+
+    <string-array name="DestinosF">
+        <item></item>
+
+        <item>GUADALAJARA, JALISCO</item>      //L1  L5
+        <item>MORELIA, MICHOACAN</item>        //L1  L3
+        <item>HERMOSILLO, SONORA</item>         //L2
+        <item>SAN LUIS P., SAN LUIS P</item>    //L2
+        <item>CHIAPAS, CHIAPAS</item>           //L3
+        <item>MEXICALI, BAJA CALIFORNIA</item>  //L3
+        <item>ACAPULCO, GUERRERO</item>         //L4
+        <item>MERIDA, YUCATÁN</item>            //L4
+        <item>CD. MEXICO</item>                 //L1 L2 L3 L4 L5
+        <item>NUEVO LEON, MONTERREY</item>      //L5
+    </string-array>
+
+    <string-array name="R1">
+        <item> </item>
+        <item>ETN</item>
+        <item>PRIMERA PLUS</item>
+    </string-array>
+
+    <string-array name="R2">
+        <item> </item>
+        <item>ETN</item>
+        <item>PEGASSO</item>
+    </string-array>
+
+    <string-array name="R3">
+        <item> </item>
+        <item>FLECHA ROJA</item>
+    </string-array>
+
+    <string-array name="R4">
+        <item> </item>
+        <item>FLECHA ROJA</item>
+    </string-array>
+
+    <string-array name="R5">
+        <item> </item>
+        <item>PEGASSO</item>
+    </string-array>
+    <string-array name="R6">
+        <item> </item>
+        <item>PEGASSO</item>
+    </string-array>
+    <string-array name="R7">
+        <item> </item>
+        <item>ODM</item>
+    </string-array>
+    <string-array name="R8">
+        <item> </item>
+        <item>ODM</item>
+    </string-array>
+    <string-array name="R9">
+        <item> </item>
+        <item>ETN</item>
+        <item>FLECHA ROJA</item>
+        <item>PEGASSO</item>
+        <item>ODM</item>
+        <item>PRIMERA PLUS</item>
+    </string-array>
+
+    <string-array name="R10">
+        <item> </item>
+        <item>PRIMERA PLUS</item>
+    </string-array>
+
+
+    <string-array name="Origen1">
+        <item> --- Seleccionar ---</item>
+        <item>Toluca, Edo. Mexico</item>
+        <item>Hermosillo, Sonora</item>
+        <item>Morelia, Michoacan</item>
+    </string-array>
+<string-array name="Origen2">
+        <item> --- Seleccionar ---</item>
+        <item>Guadalajara, Jalisco</item>
+        <item>Hermosillo, Sonora</item>
+        <item>Morelia, Michoacan</item>
+    </string-array>
+<string-array name="Origen3">
+        <item> --- Seleccionar ---</item>
+        <item>Guadalajara, Jalisco</item>
+        <item>Toluca, Edo. Mexico</item>
+        <item>Morelia, Michoacan</item>
+    </string-array>
+<string-array name="Origen4">
+        <item> --- Seleccionar ---</item>
+        <item>Guadalajara, Jalisco</item>
+        <item>Toluca, Edo. Mexico</item>
+        <item>Hermosillo, Sonora</item>
+    </string-array>
+
+    <string-array name="Horarios"  >
+        <item>7:00 hrs</item>
+        <item>9:00 hrs</item>
+        <item>11:00 hrs</item>
+        <item>13:00 hrs</item>
+        <item>15:00 hrs</item>
+        <item>16:00 hrs</item>
+        <item>18:00 hrs</item>
+        <item>20:00 hrs</item>
+    </string-array>
+
+    //Toluca - Guadalajara      R1
+
+    //Toluca - Hermosillo       R2
+
+    //Toluca - Morelia          R3
+
+    //Guadalajara - Hermosillo  R4
+
+    //Guadalajara - Morelia     R5
+
+    //Guadalajara - Toluca      R1
+
+    //Morelia - Toluca          R3
+
+    //Morelia - Guadalajara     R5
+
+    //Morelia - Hermosillo      R6
+
+    //Hermosillo - Toluca       R2
+
+    //Hermisillo - Guadalajara  R4
+
+    //Hermosillo - Morelia      R6
+
+
+    <string-array name="Lineas">
+        <item> --- Seleccionar --- </item>
+        <item>ETN</item>
+        <item>FLECHA ROJA</item>
+        <item>PEGASSO</item>
+        <item>ODM</item>
+        <item>PRIMERA PLUS</item>
+
+    </string-array>
+
+
+
+    <string-array name="P1">
+        <item>Adulto $713.00</item>
+        <item>Niño (menor a 12 años) $350.00"</item>
+        <item>credencial INSEN $350.00</item>
+    </string-array>
+
+    <string-array name="P3">
+        <item>Adulto $1700.00</item>
+        <item>Niño (menor a 12 años) $850.00"</item>
+        <item>credencial INSEN $850.00</item>
+    </string-array>
+
+    <string-array name="P2">
+        <item>Adulto $359.00</item>
+        <item>Niño (menor a 12 años) $170.00</item>
+        <item>credencial INSEN $170.00</item>
+    </string-array>
+
+    <string-array name="P5">
+        <item>Adulto $1600.00</item>
+        <item>Niño (menor a 12 años) $880.00"</item>
+        <item>credencial INSEN $880.00</item>
+    </string-array>
+
+    <string-array name="P4">
+        <item>Adulto $408.00</item>
+        <item>Niño (menor a 12 años) $204.00"</item>
+        <item>credencial INSEN $204.00</item>
+    </string-array>
+
+    <string-array name="P6">
+        <item>Adulto $1804.00</item>
+        <item>Niño (menor a 12 años) $902.00"</item>
+        <item>credencial INSEN $902.00</item>
+    </string-array>
+    <string-array name="P8">
+        <item>Adulto $1204.00</item>
+        <item>Niño (menor a 12 años) $602.00"</item>
+        <item>credencial INSEN $602.00</item>
+    </string-array>
+    <string-array name="P7">
+        <item>Adulto $904.00</item>
+        <item>Niño (menor a 12 años) $452.00"</item>
+        <item>credencial INSEN $452.00</item>
+    </string-array>
+    <string-array name="P9">
+        <item>Adulto $104.00</item>
+        <item>Niño (menor a 12 años) $62.00"</item>
+        <item>credencial INSEN $62.00</item>
+    </string-array>
+    <string-array name="P10">
+        <item>Adulto $704.00</item>
+        <item>Niño (menor a 12 años) $352.00"</item>
+        <item>credencial INSEN $352.00</item>
+    </string-array>
+
+</resources>
